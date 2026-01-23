@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Engineer
-- [ ] The Postman
+- [X] The Postman
 - [ ] The Journalist
 
 ## Weapons
@@ -12,9 +12,9 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-I found The Librarian in the pond. I found a kitchen knife in the dock.
-I followed the first clue and went to the cottage. In the cottage I found the Iron Poker and a second clue.
-
+*I found The Librarian in the pond. I found a kitchen knife in the dock.
+*I followed the first clue and went to the cottage. In the cottage I found the Iron Poker and a second clue.
+*I followed the second clue to the storage and found a third clue. I also found The Postman.
 ## Clues:
 
 1. Detective's Initial Report:
@@ -25,5 +25,8 @@ According to The Clockmaker, there were unusual sounds coming from the cottage l
 
 Go back and check the storage in the shops.
 
+3. New Clue:
+
+Go to the aisles in the shops.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
