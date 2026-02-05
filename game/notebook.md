@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Engineer
+- [X] The Engineer
 - [X] The Postman
 - [ ] The Journalist
 
@@ -15,6 +15,7 @@
 *I found The Librarian in the pond. I found a kitchen knife in the dock.
 *I followed the first clue and went to the cottage. In the cottage I found the Iron Poker and a second clue.
 *I followed the second clue to the storage and found a third clue. I also found The Postman.
+* I followed the third clue to the aisles in the shops and found a fourth clue. I also found The Engineer.
 ## Clues:
 
 1. Detective's Initial Report:
@@ -26,6 +27,10 @@ According to The Clockmaker, there were unusual sounds coming from the cottage l
 Go back and check the storage in the shops.
 
 3. New Clue:
+
+Go to the aisles in the shops.
+
+4. New Clue:
 
 Go to the aisles in the shops.
 
