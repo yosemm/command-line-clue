@@ -17,7 +17,7 @@
 * I followed the second clue to the storage and found a third clue. I also found The Postman.
 * I followed the third clue to the aisles in the shops and found a fourth clue. I also found The Engineer.
 * I followed the fourth clue to the council chamber and found the Old Key. 
-
+* I followed the fifth clue to the living room in the Residential Area and found that the room was empty. I believe this is where the murder happened.
 ## Clues:
 
 1. Detective's Initial Report:
@@ -40,4 +40,5 @@ Go back and check the council chamber in the town hall.
 
 Go back and check the living room in the Residential Area.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+## Conclusion
+I believe it was The Journalist who did it using the Brass Bell. He did it in the living room in the Residential Area.
